@@ -9,7 +9,7 @@ h1 {
   text-align: center;
   color: white; /* Confirmed black heading */
   font-weight: bolder;
-  width: 80%;
+  width: 50%;
   
   margin: 40px auto; /* Center the heading horizontally */
   border-radius: 10px;
@@ -127,5 +127,6 @@ h1 {
     padding: auto;
    
 }
+
 
 
